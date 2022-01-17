@@ -52,7 +52,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## CONTACT US :ticket:
-if you have any issue with our website,dont hesitate to contact us gilbert.yegon@student.moringaschool.com
+if you have any issue with our website,dont hesitate to contact us gilbert.yegon@student.moringaschool.com or bravoyegon@gmail.com
+
 
 ## License
 copyright @ 2022
