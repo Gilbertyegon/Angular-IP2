@@ -7,7 +7,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 })
 export class DataService {
   username: string = "Gilbertyegon";
-  repoName: string = "pizzainn";
+  repoName: string = "Gilbert-Skyline-Pizza ";
   clientId: string = "7ee6c11861570c3bab7b";
   clientSecret: string = "e21bf95a5fc39f4bc5085646d5367a0ede02e9df";
   apikey:string='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';
