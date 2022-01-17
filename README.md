@@ -25,6 +25,17 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+
+## Testing
+[![Travis CI](https://travis-ci.org/tterb/yt2mp3.svg?branch=master)](https://travis-ci.org/tterb/yt2mp3)
+[![Travis CI w/ Logo](https://img.shields.io/travis/tterb/yt2mp3/master.svg?logo=travis)](https://travis-ci.org/tterb/yt2mp3)  
+[![Code Climate](https://codeclimate.com/github/JonSn0w/Hyde/badges/gpa.svg)](https://codeclimate.com/github/tterb/Hyde)
+[![CodeCov](https://codecov.io/gh/tterb/yt2mp3/branch/master/graph/badge.svg)](https://codecov.io/gh/tterb/yt2mp3)
+[![Coveralls](https://img.shields.io/coveralls/jekyll/jekyll.svg?style=flat)]()
+[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)  
+[![Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%tterb.github.io%2F&tab=desktop)](https://tterb.github.io)  
+[![wercker status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/m/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
+
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
