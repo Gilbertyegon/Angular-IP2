@@ -5,6 +5,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertyegon&theme=blue-green)
 
+## Cloning the project
+```
+1. in your terminal run git clone 
+2.cd Angular-IP2
+3. set up your Github API credentials in Dataservice
+4. update environment keys
+5. run ng serve --open
+
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
