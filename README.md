@@ -1,7 +1,6 @@
 # Gitsearch :black_heart:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
-
+This is an Angular web app which consumes Github API to enable one see github user with all his or her repositories . The project was created using the Angular CLI version 13
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilbertyegon&theme=blue-green)
 
