@@ -33,8 +33,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 [![CodeCov](https://codecov.io/gh/tterb/yt2mp3/branch/master/graph/badge.svg)](https://codecov.io/gh/tterb/yt2mp3)
 [![Coveralls](https://img.shields.io/coveralls/jekyll/jekyll.svg?style=flat)]()
 [![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)  
-[![Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%tterb.github.io%2F&tab=desktop)](https://tterb.github.io)  
-[![wercker status](https://app.wercker.com/status/9e0bc54c43f48d220aec684fffb2b110/m/master "wercker status")](https://app.wercker.com/project/bykey/9e0bc54c43f48d220aec684fffb2b110)
 
 ## Build
 
