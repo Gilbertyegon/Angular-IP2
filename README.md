@@ -7,8 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Cloning the project
 ```
-1. in your terminal run git clone 
-2.cd Angular-IP2
+1. In your terminal run git clone https://github.com/Gilbertyegon/Angular-IP2.git
+2. cd Angular-IP2
 3. set up your Github API credentials in Dataservice
 4. update environment keys
 5. run ng serve --open
